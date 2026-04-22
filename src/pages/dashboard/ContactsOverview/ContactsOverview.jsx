@@ -92,6 +92,63 @@ function ContactsOverview() {
                   </button>
                 </div>
               </div>
+              <div className="contact">
+                <img src="/images/svg/uchnuqta.svg" alt="" />
+                <img
+                  src="/images/jpeg/elena-vance.jpg"
+                  alt="person"
+                  width={80}
+                  height={80}
+                />
+                <span>Elena Vance</span>
+                <p>Product Strategist • London</p>
+                <div className="message-and-video">
+                  <button>
+                    <img src="/images/svg/message-icon.svg" alt="" />
+                  </button>
+                  <button>
+                    <img src="/images/svg/video-icon.svg" alt="" />
+                  </button>
+                </div>
+              </div>
+              <div className="contact">
+                <img src="/images/svg/uchnuqta.svg" alt="" />
+                <img
+                  src="/images/jpeg/elena-vance.jpg"
+                  alt="person"
+                  width={80}
+                  height={80}
+                />
+                <span>Marcus Thorne</span>
+                <p>Brand Identity • Brooklyn</p>
+                <div className="message-and-video">
+                  <button>
+                    <img src="/images/svg/message-icon.svg" alt="" />
+                  </button>
+                  <button>
+                    <img src="/images/svg/video-icon.svg" alt="" />
+                  </button>
+                </div>
+              </div>
+              <div className="contact">
+                <img src="/images/svg/uchnuqta.svg" alt="" />
+                <img
+                  src="/images/jpeg/elena-vance.jpg"
+                  alt="person"
+                  width={80}
+                  height={80}
+                />
+                <span>Sarah Chen</span>
+                <p>Senior Developer • Tokyo</p>
+                <div className="message-and-video">
+                  <button>
+                    <img src="/images/svg/message-icon.svg" alt="" />
+                  </button>
+                  <button>
+                    <img src="/images/svg/video-icon.svg" alt="" />
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
