@@ -58,7 +58,7 @@ function ContactsOverview() {
                 <img src="/images/png/workspace-help.png" alt="icon" />
               </button>
               <button>
-                <img src="/images/svg/+.svg" alt="icon" />
+                <img src="/images/svg/+.svg" alt="icon" width={8.17} height={8.17}/>
                 <span>Add Contact</span>
               </button>
             </div>
